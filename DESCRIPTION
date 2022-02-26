@@ -1,6 +1,6 @@
 Package: mxnorm
 Title: Apply Normalization Methods to Multiplexed Images
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     person(given = "Coleman",
            family = "Harris",
@@ -22,11 +22,11 @@ Config/reticulate: list( packages = list( list(package =
         "scikit-image") ) )
 Imports: magrittr, dplyr, rlang, fda, stats, data.table, reticulate,
         caret, e1071, ggplot2, tidyr, uwot, lme4, stringr, KernSmooth,
-        kSamples, psych, fossil
+        kSamples, psych, fossil, glue, methods
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2022-02-21 18:06:53 UTC; harricr2
+Packaged: 2022-02-25 19:32:00 UTC; harricr2
 Author: Coleman Harris [aut, cre] (<https://orcid.org/0000-0002-6325-0694>)
 Maintainer: Coleman Harris <coleman.r.harris@vanderbilt.edu>
 Repository: CRAN
-Date/Publication: 2022-02-22 18:50:02 UTC
+Date/Publication: 2022-02-26 07:30:02 UTC
