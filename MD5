@@ -1,4 +1,4 @@
-a6847da45f1b301bf45a29ae41ebb8fb *DESCRIPTION
+b3ad453d57118e97acd3b496cf2453d1 *DESCRIPTION
 6b291fd0fe877f08010aef2ef2572fd9 *LICENSE
 4c7bcb3a8f04c151dedc6c2870687943 *NAMESPACE
 9768813d6a8d8f0d233ba5da93f67a1e *R/combat_helpers.R
@@ -9,7 +9,7 @@ f88eb2da9a81870e945c07d54f3caa7a *R/get_long_data.R
 1d1521b271c0ea942a57b90274d5666c *R/get_umap_reduction.R
 741d8eb0d8d2335f5cedba2efde789f7 *R/get_var_data.R
 b9902b297425b30b93a58182a015721a *R/get_var_proportions.R
-ba678af188b48ba6cbf3909015ee24d6 *R/global.R
+8eff5e9942d66d670f03109b0c05679b *R/global.R
 b6b8cf42924cdc5b285a05928042ba9e *R/mx_dataset.R
 cd27a39f3945c503b4d899877dc567c7 *R/mx_normalize.R
 483887e338b4217d0752e692d06369f9 *R/mx_sample.R
@@ -29,7 +29,7 @@ f6a69a78e397637b8bc4316e9e4c8c98 *R/registration_helpers.R
 ebd96fa92cca62408345fa4d1647f2b1 *R/run_reduce_umap.R
 8d2bc1f4bd88a4d4b36cec6293e2d09f *R/run_var_proportions.R
 3ce32934a1ca8d856136ecf516c82f9a *R/summary.R
-ed5a55f383e50d43edd6c91464dfa45c *R/transform_mx_dataset.R
+c6b399d61419e11a3836fd983dd014ee *R/transform_mx_dataset.R
 878f34ff541eb0c129d76cc853f72988 *R/trim_dataset.R
 356809f62a9399318ebb13f65f122c58 *R/utils-pipe.R
 d7c8c2e0089434488fa6057b32405dc4 *R/validate_method_override.R
@@ -40,11 +40,11 @@ e508d920824c99136e8f3d5820e98744 *R/validate_otsu_discordance_params.R
 3c8aeef30e8411724a057bbed752129a *R/validate_threshold_override.R
 8723b199bb7972d2e7de1ba237bf136f *R/validate_var_proportions_params.R
 635973a2a59e549b49869b600d302252 *README.md
-f2a08402217b7cc1b9bdd0a1867c951a *build/vignette.rds
+350688162c62604f6c2f265de4ae5749 *build/vignette.rds
 e2d6069c5fa3f217ecfc598ae8e28feb *data/mx_sample.rda
 8e0b8cea78665042b9cd2599a1eae7e8 *inst/doc/mxnorm-vignette.R
 5b962268de3ac690c91e6dbbb19ab4ea *inst/doc/mxnorm-vignette.Rmd
-f53b44d1b95f5ab4aae36ab1d5d073f7 *inst/doc/mxnorm-vignette.html
+31c91ce85f13f9977e510165c2a67fc3 *inst/doc/mxnorm-vignette.html
 1c499224cc0498525d65d03936d23697 *man/figures/README-mx_dens-1.png
 0273447d9fb34d766d110503ae5d3598 *man/figures/README-mx_misc-1.png
 44858ddc72ed859dbd7239a628588b13 *man/figures/README-mx_umap-1.png
